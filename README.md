@@ -14,6 +14,10 @@ Será feito um sistema de agendamento de cliente em um salão de beleza, que con
 * Aws EC2 (Servidor backend)
 * Aws RDS (Servidor Banco de dados)  
 
+  
+## Casos de uso <h2>
+  https://lucid.app/lucidchart/85190840-cb3d-4d5c-85fa-4681c66af033/edit?invitationId=inv_958c31dd-8a5c-4d77-9ebf-d5ed779a29fa
+  
 ### Integrantes do grupo <h3>  
  Nome   | RA
 --------- | ------
