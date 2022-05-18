@@ -24,5 +24,4 @@ Será feito um sistema de agendamento de cliente em um salão de beleza, que con
 Antonio Miguel Borges Correia | 0030482111013
 Guilherme Martins de Madureira | 0030482111040
 Jean Carlos Sampaio  | 0030482111015
-Matheus Nascimento Ribeiro | 0030482111011
 Richard Cláudio Rizzo Pereira | 0030482111010  
