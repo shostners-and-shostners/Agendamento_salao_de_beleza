@@ -27,7 +27,6 @@ Será feito um sistema de agendamento de cliente em um salão de beleza, que con
 ### Integrantes do grupo <h3>  
  Nome   | RA
 --------- | ------
-Antonio Miguel Borges Correia | 0030482111013
+Antônio Miguel Borges Correa | 0030482111013
 Guilherme Martins de Madureira | 0030482111040
 Jean Carlos Sampaio  | 0030482111015
-Richard Cláudio Rizzo Pereira | 0030482111010  
