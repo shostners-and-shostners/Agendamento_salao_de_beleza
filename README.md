@@ -28,7 +28,7 @@ Será feito um sistema de agendamento de cliente em um salão de beleza, que con
  Nome   | RA
 --------- | ------
 Antônio Miguel Borges Correa | 0030482111013
+Bruno Araújo Nicanor da Silva | 0030482111041
 Guilherme Martins de Madureira | 0030482111040
 Jean Carlos Sampaio  | 0030482111015
-Bruno Araújo Nicanor da Silva | 0030482111041
 João Vitor dos Reis Oliveira | 
