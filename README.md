@@ -22,7 +22,7 @@ Será feito um sistema de agendamento de cliente em um salão de beleza, que con
   https://lucid.app/lucidchart/573a57a2-8141-4a0a-8e91-88a848092447/edit?viewport_loc=-8%2C131%2C1939%2C1066%2C0_0&invitationId=inv_9d773166-3c01-4944-8620-27151629af19
 
   ## Protótipo Figma <h2>
-  https://www.figma.com/file/pcI2mH9n6a5b8faSzStQu8/Projeto-sal%C3%A3o?node-id=0%3A1 
+  https://www.figma.com/file/b1C3fFgvGr7F02vtP8veuS/Projeto-sal%C3%A3o?t=RuDji7sgjbrs4d6B-1
   
 ### Integrantes do grupo <h3>  
  Nome   | RA
