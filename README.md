@@ -16,8 +16,6 @@ Será feito um sistema de agendamento de cliente em um salão de beleza, que con
 
   
 ## Casos de uso <h2>
-  https://lucid.app/lucidchart/85190840-cb3d-4d5c-85fa-4681c66af033/edit?invitationId=inv_958c31dd-8a5c-4d77-9ebf-d5ed779a29fa
- Nova versão <h2>
   https://lucid.app/lucidchart/1e739d14-1fac-4904-a7b0-cd85f660794b/edit?viewport_loc=-384%2C15%2C1987%2C1093%2C0_0&invitationId=inv_d9976225-adda-471d-8fa3-64d16aeed499
   
 ## Diagrama conteceitual <h2>
