@@ -6,8 +6,7 @@ Será feito um sistema de agendamento de cliente em um salão de beleza, que con
 ### Backend:<h3>
  * Node.js
 ### FrontEnd:<h3>
- * **Web** - React
- * **Mobile** - React Native
+ * **Web/Mobile** - React
 ### Banco de dados:<h3>
  * Mysql
 ### Infra do Projeto:<h5>
